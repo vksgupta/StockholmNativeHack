@@ -111,7 +111,7 @@ implementation
 
 and in Info.plist
 
-fb374038142615411
+fb<APP_ID>
 
 
 
