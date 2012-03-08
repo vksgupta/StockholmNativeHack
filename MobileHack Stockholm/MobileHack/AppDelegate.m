@@ -32,7 +32,7 @@
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
     
-    facebook = [[Facebook alloc] initWithAppId:@"374038142615411"
+    facebook = [[Facebook alloc] initWithAppId:@"<APP_ID>"
                                    andDelegate:self];
     
     NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
